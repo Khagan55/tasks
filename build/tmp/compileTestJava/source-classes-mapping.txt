@@ -1,0 +1,8 @@
+fragments/SumSmallestNumbersTest.java
+ fragments.SumSmallestNumbersTest
+fragments/FindOddAmountTest.java
+ fragments.FindOddAmountTest
+troubleshootApp/IssueTest.java
+ troubleshootApp.IssueTest
+fragments/SameXOAmountTest.java
+ fragments.SameXOAmountTest
